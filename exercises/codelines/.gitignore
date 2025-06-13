@@ -1,0 +1,17 @@
+# Maven & Spring Boot
+/target/
+*.jar
+*.war
+*.ear
+*.log
+.mvn/
+
+# jdtls & Neovim
+.settings/
+.classpath
+.project
+.cache/
+.jdtls-workspace/
+*~
+*.swp
+*.swo
