@@ -1,0 +1,10 @@
+# docker-compose to production
+
+version: "3.8"
+
+services:
+    sarabi-frontend-prod:
+        build: .
+        container_name: isaac-last-stand-back
+        ports:
+            - "8080:80"

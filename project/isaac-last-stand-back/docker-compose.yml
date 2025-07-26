@@ -1,0 +1,7 @@
+services:
+    isaac-last-stand:
+        build:
+            context: .
+        container_name: isaac-last-stand-back
+        ports:
+            - '3000:3000'

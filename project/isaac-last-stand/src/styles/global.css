@@ -1,0 +1,16 @@
+@import "tailwindcss";
+
+body {
+    /* --- background --- */
+    background-image: linear-gradient(rgba(0, 0, 0, 0.9), rgba(0, 0, 0, 0.9)),
+        url("/src/assets/background.jpeg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: fixed;
+
+    margin: 0;
+    min-height: 100vh;
+    color: black;
+    font-family: sans-serif;
+}

@@ -1,0 +1,10 @@
+.container-menu {
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #282828;
+    border-radius: 1rem;
+    padding: 2rem;
+    border: 4px solid #504945;
+    box-shadow: 0 25px 50px -12px rgb(0 0 0 / 0.25);
+    color: white;
+}
